@@ -1,9 +1,10 @@
 Title
-
 Author
 
-Introduction
 
+Introduction
+Data
+Analysis
 Conclusions
 
 References
