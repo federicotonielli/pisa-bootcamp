@@ -1,9 +1,9 @@
 Author:
 Title:
 
-Introduction
-Data
-Analysis
-Conclusions
+Introduction:
+Data:
+Analysis:
+Conclusions:
 
-References
+References:
