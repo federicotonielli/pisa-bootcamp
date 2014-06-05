@@ -1,6 +1,5 @@
-Title
-Author
-
+Author:
+Title:
 
 Introduction
 Data
